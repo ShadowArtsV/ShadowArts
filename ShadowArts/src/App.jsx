@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import ShadowArts from './components/ShadowArts';
+import ShadowArts from './components/home/ShadowArts';
 
 function App() {
   return (
